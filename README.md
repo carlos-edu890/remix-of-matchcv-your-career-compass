@@ -1,3 +1,5 @@
+# Ainda não está completo
+
 # Remix of MatchCV: Your Career Compass
 
 # MatchCV — Plataforma de Matchmaking de Vagas e Currículos ATS
