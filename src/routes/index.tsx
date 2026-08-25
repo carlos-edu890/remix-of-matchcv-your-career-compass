@@ -144,9 +144,7 @@ function Dashboard() {
                     {job.requiredSkills.slice(0, 6).map((skill) => (
                       <Badge
                         key={skill}
-                        variant={
-                          match.matchedSkills.includes(skill.toLowerCase()) ? "default" : "secondary"
-                        }
+                        variant={match.matchedSkills.includes(skill) ? "default" : "secondary"}
                       >
                         {skill}
                       </Badge>
